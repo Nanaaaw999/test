@@ -1,0 +1,22 @@
+{
+  "name": "telegram-cjs-bot-case",
+  "version": "1.0.0",
+  "description": "Telegram bot base (CommonJS, switch-case style)",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "@vreden/youtube_scraper": "^1.2.0",
+    "yt-search":"^2.10.2",
+    "axios":"^1.4.0",
+    "fs":"0.0.1-security",
+    "form-data": "^4.0.4",
+    "canvas": "^3.2.0",
+    "sharp": "^0.34.4",
+    "path": "^0.12.7",
+    "os": "^0.1.2",
+    "node-telegram-bot-api": "^0.63.0"
+  }
+}
